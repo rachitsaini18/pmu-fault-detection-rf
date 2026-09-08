@@ -187,4 +187,4 @@ Full reference list, including dataset/methodology GitHub repositories, is in th
 
 ## License
 
-Add a license of your choice (e.g. MIT) if you intend this repository to be reused by others.
+This project is licensed under the [MIT License](./LICENSE).
