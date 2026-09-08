@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# Re-run outputs written to the repo root when the notebook executes locally
+# (the tracked, submitted copies already live in results/)
+/all_predictions.csv
+/classification_report.csv
+/filtered_predictions.csv
