@@ -1,5 +1,7 @@
 # An Explainable Random Forest Framework for Real-Time Transmission Line Fault Detection and Relay Decision/SCADA Support Using PMU Data
 
+[Full project report (PDF)](./ULC601_Project_Report_Rachit_4007__Aashray_4037_.pdf) or at https://github.com/rachitsaini18/pmu-fault-detection-rf/blob/main/ULC601_Project_Report_Rachit(4007)_Aashray(4037).pdf
+
 A course project for **Machine Learning Techniques (ULC601)**, Electrical & Instrumentation Engineering Department, Thapar Institute of Engineering & Technology, Patiala.
 
 **Authors:** Rachit Saini (102304007), Aashray Sharma (102304037)
